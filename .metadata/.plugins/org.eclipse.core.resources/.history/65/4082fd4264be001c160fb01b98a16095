@@ -1,0 +1,13 @@
+package com.apipractice;
+
+import io.restassured.response.Response;
+
+public class GetApi {
+
+public static void main(String[] args) {
+	Response response= given().param("status","pending").when().get("https://petstore.swagger.io/v2/pet/findByStatus?status=pending")
+			
+			
+			S
+}
+}

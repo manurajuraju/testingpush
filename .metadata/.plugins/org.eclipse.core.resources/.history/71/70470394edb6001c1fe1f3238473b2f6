@@ -1,0 +1,24 @@
+Feature: search field testing
+Scenario: positive scenario for search field
+Given user on youtube home page
+When user write malayalam song
+And click to search button
+Then user able to see malayalam song
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b

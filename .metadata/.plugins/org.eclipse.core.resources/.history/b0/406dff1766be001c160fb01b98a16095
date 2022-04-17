@@ -1,0 +1,20 @@
+package com.apipractice;
+
+
+
+import org.testng.Assert;
+
+import io.restassured.response.Response;
+
+import static io.restassured.RestAssured.*;
+public class GetApi {
+
+public static void main(String[] args) {
+	Response response= given().param("status","pending").when().get("https://petstore.swagger.io/v2/pet/findByStatus?status=pending")
+			
+			
+			System.out.println(response.getBody().prettyPrint());
+	Assert.assertEquals(response.getStatusCode(),200);
+	System.out.println(code);
+}
+}

@@ -1,0 +1,33 @@
+package com.stepdefinition;
+
+public class Searchsteps {
+
+	public static void main(String[] args) {@Given("user on home page")
+	public void user_on_home_page() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("user enter QA tesing in search field")
+	public void user_enter_qa_tesing_in_search_field() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@When("user click on search button")
+	public void user_click_on_search_button() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+	@Then("user able to go QA testing page")
+	public void user_able_to_go_qa_testing_page() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
+
+		// TODO Auto-generated method stub
+
+	}
+
+}

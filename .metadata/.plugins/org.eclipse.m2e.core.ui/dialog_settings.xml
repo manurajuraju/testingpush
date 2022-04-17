@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\16148\eclipse-workspace\Mastermind30\src\test\java\com\pageobjectmodel\SearchPage.java"/>
+			<item value="C:\Users\16148\eclipse-workspace\Mastermind67\src\test\java"/>
+			<item value="C:\Users\16148\eclipse-workspace\Mastermind30\src\test\java"/>
+			<item value="C:\Users\16148\eclipse-workspace\Mastermind30\src\test\java\com\codepractice\Mousehover.java"/>
+			<item value="C:\Users\16148\eclipse-workspace\Mastermind67\src\test\java\com\steprunner\searchclick.java"/>
+			<item value="C:\Users\16148\eclipse-workspace\Mastermind30\src\test\java\com\common\base.java"/>
+			<item value="C:\Users\16148\eclipse-workspace\Mastermind30"/>
+			<item value="C:\Users\16148\eclipse-workspace\Practice101"/>
+			<item value="C:\Users\16148\eclipse-workspace\Mastermind30\src\test\java\com\stepdefinition\search.java"/>
+			<item value="C:\Users\16148\eclipse-workspace\Manu001"/>
+			<item value="C:\Users\16148\eclipse-workspace\Manu001\manucucumberfeatures\manucucumber.feature"/>
+			<item value="C:\Users\16148\eclipse-workspace\Manu001\src\test\java\com\manu\testrunner"/>
+			<item value="C:\Users\16148\eclipse-workspace\Mastermind30\pom.xml"/>
+			<item value="C:\Users\16148\eclipse-workspace\Mastermind130\pom.xml"/>
+			<item value="C:\Users\16148\eclipse-workspace\Mastermind60"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.mastermind"/>
+			<item value="com.mastermind55"/>
+			<item value="com.manuraju"/>
+			<item value="com.hhgyf"/>
+			<item value="com.mastermind356"/>
+			<item value="com.maqnu"/>
+			<item value="com.mastermind45"/>
+			<item value="com.companyaleena"/>
+			<item value="com.facebook"/>
+			<item value="com.exatrapractice"/>
+			<item value="com.mysoftware"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="Mastermind100"/>
+			<item value="Mastermind67"/>
+			<item value="Mastermind45"/>
+			<item value="Ddthfygjh"/>
+			<item value="Mastrermind"/>
+			<item value="manu45"/>
+			<item value="com.mastermind"/>
+			<item value="mastermind45"/>
+			<item value="Aleenamanu"/>
+			<item value="Mastermind56"/>
+			<item value="Mastermind8989"/>
+			<item value="Mastermind9090"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
